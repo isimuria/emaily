@@ -1,4 +1,18 @@
- 
+# Emaily - Simple Feedback Collection Service
+
+Emaily is a MERN full-stack web application that allows users to send mass emails to a large list of users for the purpose of collecting feedback. It has an authentication system implemented using Passport.js and Google Oauth and provides functional billing and payment processing using the Stripe API. It uses Mongoose for survey creation and utilizes the SendGrid API to automatically send emails to recipients.
+
+<strong>Emaily live link:</strong> https://emaily-2018.herokuapp.com/
+
+<img width="1279" alt="landing-screenshot" src="https://user-images.githubusercontent.com/59174894/71780728-6b648000-2fc6-11ea-8bb1-b050067f2525.png">
+
+## Technologies and Frameworks Used
+
+* <strong>Front-end:</strong> React.js, Materialize.css
+* <strong>Back-end:</strong> Node.js, Express, MongoDB
+* <strong>Deployment:</strong> Heroku
+* <strong>Authentication:</strong> Passport, OAuth 2.0
+
 
 **Description:**
 
@@ -38,22 +52,4 @@ The app flow is as follows:
 
 * I definitely learned a TON from this course! My overall React/Redux comfort levels increased dramatically, as well as my general ES6 JavaScript knowledge. I'm really looking forward to expanding upon this material and creating some interesting things in the near future!
 
-
-
-
-
-# Emaily - Simple Feedback Collection Service
-
-Emaily is a MERN full-stack web application that allows users to send mass emails to a large list of users for the purpose of collecting feedback. It has an authentication system implemented using Passport.js and Google Oauth and provides functional billing and payment processing using the Stripe API. It uses Mongoose for survey creation and utilizes the SendGrid API to automatically send emails to recipients.
-
-<strong>Emaily live link:</strong> https://emaily-2018.herokuapp.com/
-
-<img width="1279" alt="landing-screenshot" src="https://user-images.githubusercontent.com/59174894/71780728-6b648000-2fc6-11ea-8bb1-b050067f2525.png">
-
-## Technologies and Frameworks Used
-
-* <strong>Front-end:</strong> React.js, Materialize.css
-* <strong>Back-end:</strong> Node.js, Express, MongoDB
-* <strong>Deployment:</strong> Heroku
-* <strong>Authentication:</strong> Passport, OAuth 2.0
 
