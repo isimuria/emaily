@@ -1,8 +1,4 @@
-# Emaily - A React/Redux Email Survey App
-
-This somewhat complex app was built for an online course taught by Stephen Grider: _Node with React: Fullstack Web Development_
-
----
+ 
 
 **Description:**
 
@@ -50,9 +46,9 @@ The app flow is as follows:
 
 Emaily is a MERN full-stack web application that allows users to send mass emails to a large list of users for the purpose of collecting feedback. It has an authentication system implemented using Passport.js and Google Oauth and provides functional billing and payment processing using the Stripe API. It uses Mongoose for survey creation and utilizes the SendGrid API to automatically send emails to recipients.
 
-<strong>Emaily live link:</strong> https://orm-emaily.herokuapp.com/
+<strong>Emaily live link:</strong> https://emaily-2018.herokuapp.com/
 
-<img width="1279" alt="landing-screenshot" src="https://prnt.sc/qjly5t">
+<img width="1279" alt="landing-screenshot" src="https://user-images.githubusercontent.com/59174894/71780728-6b648000-2fc6-11ea-8bb1-b050067f2525.png">
 
 ## Technologies and Frameworks Used
 
