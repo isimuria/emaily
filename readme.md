@@ -52,7 +52,7 @@ Emaily is a MERN full-stack web application that allows users to send mass email
 
 <strong>Emaily live link:</strong> https://orm-emaily.herokuapp.com/
 
-<img width="1279" alt="landing-screenshot" src="https://user-images.githubusercontent.com/25493127/42410543-5c3d0f82-81eb-11e8-9060-4ad8682c82e2.png">
+<img width="1279" alt="landing-screenshot" src="https://prnt.sc/qjly5t">
 
 ## Technologies and Frameworks Used
 
